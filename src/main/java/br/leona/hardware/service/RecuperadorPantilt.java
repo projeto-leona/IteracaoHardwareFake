@@ -9,7 +9,7 @@ package br.leona.hardware.service;
 import br.leona.hardware.model.Servico;
 /**
  *
- * @author Admin
+ * @author Jean Negrão
  */
 public final class RecuperadorPantilt implements RecuperadorServico{
         
